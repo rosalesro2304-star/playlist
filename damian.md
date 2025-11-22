@@ -20,14 +20,18 @@ console.log("hola git");
 
 ## Pop
 - Wormenizer
+- Psico killer
+  
 ## Rock
 - Hold the line
 
 ## Duranguence
 - Hasta mi final - el trono de mexico
-
+- te recordare - el trono de mexico
+- Hasta mi final - el trono de mexico
+  
 ## Grupero
 - Todo me recuerda a ti - los temerarios
 - numero equivocado - Mandingo
-- 
+-  Amor te Amo - Tierra cali
  
