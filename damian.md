@@ -29,8 +29,4 @@ console.log("hola git");
 - te recordare - el trono de mexico
 - Hasta mi final - el trono de mexico
   
-## Grupero
-- Todo me recuerda a ti - los temerarios
-- numero equivocado - Mandingo
--  Amor te Amo - Tierra cali
  
