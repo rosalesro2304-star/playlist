@@ -22,8 +22,7 @@ console.log("hola git");
 - Wormenizer
 - Psico killer
   
-## Rock
-- Hold the line
+
 
 ## Duranguence
 - Hasta mi final - el trono de mexico
